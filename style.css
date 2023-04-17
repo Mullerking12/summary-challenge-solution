@@ -1,0 +1,113 @@
+body {
+    background-color: hsl(225, 100%, 94%);
+    width: 1100px;
+    
+    
+}
+.bg {
+    position: relative;
+    width: fit-content;
+}
+#first-btn {
+    background-color: hsl(245, 75%, 52%);
+    color: #fff;
+    font-size: 15px;
+}
+#first-btn:hover {
+    background-color: hsl(224, 23%, 55%);
+}
+.btn {
+    background-color: hsl(225, 100%, 98%);
+    display: block;
+    margin: 20px 50px 10px 50px;
+    font-size: 15px;
+    font-weight: bold;
+}
+#order {
+    padding-bottom: 0;
+    background-color: white;
+    color: hsl(224, 23%, 55%);
+    
+}
+#order:hover {
+    color: black;
+    border: 0;
+}
+h1 h3 {
+    color: hsl(223, 47%, 23%);
+    font-weight: bold;
+}
+.the-p {
+    font-size: 16px;
+    color: hsl(224, 23%, 55%);
+    width: 80%;
+    margin-left: 40px;
+}
+h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.top-images {
+    width: 36%;
+    border-radius: 10%; 
+}
+.the-h3 {
+font-size: 15px;
+text-align: left;
+font-weight: bold;
+}
+#svg {
+    text-align: start;
+    margin-bottom: 20px;
+}
+#numbers {
+   position: absolute;
+   margin-left: 70px;
+}
+.row {
+    width: 80%;
+    border-radius: 10px;
+    background-color: hsl(225, 100%, 98%);
+    margin: 20px 60px 20px 40px;
+    padding-top: 30px;
+}
+.box {
+    text-align: center;
+    width: 30%;
+    background-color: white;
+   border-radius: 3%;
+   z-index: auto;
+   top: 5%;
+   right: 32%;
+   position: absolute;
+   overflow: hidden;  
+}
+.pattern-background {
+    position: relative;
+    
+}
+.price {
+   text-align: left;
+   
+   font-size: 16px;
+    color: hsl(224, 23%, 55%);
+}
+.top-images {
+   
+   position: absolute;
+   left: -1px;
+   top: -1px;
+
+}
+a {
+    text-decoration: none;
+    color: hsl(245, 75%, 52%);
+    position: absolute;
+    padding-top: 8px;
+}
+
+a:hover {
+    text-decoration: underline;
+  }
+  
